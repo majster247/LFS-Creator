@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lfs.enigmasec.studio/static/css/main.73ec6afb.css",
-    "main.js": "/lfs.enigmasec.studio/static/js/main.d24621a5.js",
+    "main.css": "/lfs.enigmasec.studio/static/css/main.efea3651.css",
+    "main.js": "/lfs.enigmasec.studio/static/js/main.91ef5e4a.js",
     "static/js/592.b56c705d.chunk.js": "/lfs.enigmasec.studio/static/js/592.b56c705d.chunk.js",
     "index.html": "/lfs.enigmasec.studio/index.html",
-    "main.73ec6afb.css.map": "/lfs.enigmasec.studio/static/css/main.73ec6afb.css.map",
-    "main.d24621a5.js.map": "/lfs.enigmasec.studio/static/js/main.d24621a5.js.map",
+    "main.efea3651.css.map": "/lfs.enigmasec.studio/static/css/main.efea3651.css.map",
+    "main.91ef5e4a.js.map": "/lfs.enigmasec.studio/static/js/main.91ef5e4a.js.map",
     "592.b56c705d.chunk.js.map": "/lfs.enigmasec.studio/static/js/592.b56c705d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.73ec6afb.css",
-    "static/js/main.d24621a5.js"
+    "static/css/main.efea3651.css",
+    "static/js/main.91ef5e4a.js"
   ]
 }
